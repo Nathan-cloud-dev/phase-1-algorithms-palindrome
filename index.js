@@ -1,5 +1,11 @@
 function isPalindrome(word) {
+
   // Write your algorithm here
+  Input: "dad"
+  Output: true
+  
+  Input:"cow"
+  Output: false
 }
 
 /* 
